@@ -1,0 +1,29 @@
+title: Nighttime Coliseum
+originalAuthor: danimalforlife
+description: |+
+  Fixes Coliseum Gates
+
+dependencies: 
+assets:
+
+#Maps#
+#Coliseum Gates - Good - Day - Normal#
+- name: map/he01.map
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: map/he01.map
+
+#Coliseum Gates - Ruin - Day - Normal#
+- name: map/he02.map
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: map/he02.map
+
+#Coliseum Gates - Ruin - Night - Cutscene#
+- name: map/he18.map
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: map/he18.map
