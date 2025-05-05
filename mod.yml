@@ -14,16 +14,16 @@ assets:
   source:
   - name: map/he01.map
 
-#Coliseum Gates - Ruin - Day - Normal#
+#Coliseum Gates - Ruin - Day - Normal and Cutscene#
 - name: map/he02.map
   package: kh2_fifth
   method: copy
   source:
   - name: map/he02.map
 
-#Coliseum Gates - Ruin - Night - Cutscene#
+#Coliseum Gates - Ruin - Night - Hydra Fight#
 - name: map/he18.map
   package: kh2_fifth
   method: copy
   source:
-  - name: map/he14.map
+  - name: map/he18.map
